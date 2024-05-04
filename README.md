@@ -10,6 +10,8 @@ I'm all about the fascinating world of self-hosting, tinkering with email server
 
 ## My Articles
 - [How to Setup Docker Mailserver on Debian 12](https://webshanks.com/setup-docker-mailserver-on-debian-12/)
+- [Setup mailcow in CloudPanel](https://webshanks.com/setup-mailcow-in-cloudpanel/)
+- [Install Docker in Debian 12](https://webshanks.com/how-to-install-docker-in-debian-12-server-using-docker-apt-repository/)
 
 
 ## 🌱 Currently Doing
@@ -17,6 +19,7 @@ I'm all about the fascinating world of self-hosting, tinkering with email server
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of of email automation.
   - Improving my email automation skills.
+  - Improving my email deliverability skills.
   - Enhancing my SEO skillset.
   - Building WordPress websites on Linux server without commercial control panels.
 
